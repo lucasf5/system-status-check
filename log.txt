@@ -1,0 +1,5 @@
+04/01/2023 16:34:56 https://random-status-code.herokuapp.com/ 404
+04/01/2023 16:34:58 https://www.alura.com.br/ 200
+04/01/2023 16:35:00 https://www.caelum.com.br/ 200
+04/01/2023 16:35:03 https://www.casadocodigo.com.br/ 200
+04/01/2023 16:35:05 https://www.devmedia.com.br/ 200
