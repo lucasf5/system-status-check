@@ -8,6 +8,6 @@ The system receives a TXT file containing all the sites to be scanned and return
 ## How to use
 - Download the project
 - git clone https://github.com/lucasf5/system-status-check
-- cd go/src
+- cd system-status-check
 - go run http-check.go
 - follow the instructions
